@@ -129,13 +129,13 @@ rules = [
     { mime = "audio/*", fg = "#E06C75" },  # Red
 
     # Archives
-    { mime = "application/zip", fg = "#E5C07B" },  # Orange
-    { mime = "application/x-tar", fg = "#E5C07B" },  # Orange
-    { mime = "application/x-bzip*", fg = "#E5C07B" },  # Orange
-    { mime = "application/x-bzip2", fg = "#E5C07B" },  # Orange
-    { mime = "application/x-7z-compressed", fg = "#E5C07B" },  # Orange
-    { mime = "application/x-rar", fg = "#E5C07B" },  # Orange
-    { mime = "application/x-xz", fg = "#E5C07B" },  # Orange
+    { mime = "application/zip", fg = "#C678DD" },  # Magenta
+    { mime = "application/x-tar", fg = "#C678DD" },  # Magenta
+    { mime = "application/x-bzip*", fg = "#C678DD" },  # Magenta
+    { mime = "application/x-bzip2", fg = "#C678DD" },  # Magenta
+    { mime = "application/x-7z-compressed", fg = "#C678DD" },  # Magenta
+    { mime = "application/x-rar", fg = "#C678DD" },  # Magenta
+    { mime = "application/x-xz", fg = "#C678DD" },  # Magenta
 
     # Documents
     { mime = "application/doc", fg = "#98C379" },  # Green
