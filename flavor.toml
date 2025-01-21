@@ -3,7 +3,7 @@
 cwd = { fg = "#61AFEF" }  # Blue
 
 # Hovered
-hovered = { bg = "#282C34" }  # Darkened background
+hovered = { fg = "#56B6C2", bg = "#282C34" }  # Cyan on Darkened background (to accent on non-transparent terminals)
 preview_hovered = { underline = true }
 
 # Find
