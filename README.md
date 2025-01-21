@@ -14,10 +14,7 @@
 
 ```bash
 # Linux/macOS
-git clone https://github.com/BennyOe/onedark.yazi.git ~/.config/yazi/flavors/onedark.yazi
-
-# Windows
-git clone https://github.com/BennyOe/onedark.yazi.git %AppData%\yazi\config\flavors\onedark.yazi
+git clone https://github.com/agrrh/onedark.yazi.git ~/.config/yazi/flavors/onedark.yazi
 ```
 
 ## ⚙️ Usage
